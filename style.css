@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#board {
+    width: 1200px;
+    height: 600px;
+    border: 1px solid;
+}
+header{
+    display: flex;
+    justify-content: center;
+}
